@@ -1,0 +1,13 @@
+#+TITLE:Declarator Plan
+
+* NetBSD functional declaration
+** immutability
+** reproducability
+** written in pure lisp for reproducability
+** inspired by nixos's declarability
+** manage custom binaries
+*** or manage custom build instructions for custom binaries
+** manage dotfiles
+*** manage rice
+*** all dotfiles in one place
+** config file written in lisp (or scheme)
